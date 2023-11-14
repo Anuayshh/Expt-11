@@ -240,6 +240,8 @@ public class MainActivity extends AppCompatActivity {
 ![image](https://github.com/Anuayshh/Expt-11/assets/127651217/d7907b4a-181e-411d-a006-7b570e7f766d)
 ![image](https://github.com/Anuayshh/Expt-11/assets/127651217/a5787408-9dd4-43c7-81e7-27e193ffd447)
 
+![image](https://github.com/Anuayshh/Expt-11/assets/127651217/b308cc17-9f47-477f-bbb7-ebea61b6dbfb)
+
 
 ## RESULT:
 Thus, to develop an application to add animation to imageview, move, blink, fade, clockwise, zoom, slide 

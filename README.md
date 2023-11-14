@@ -1,30 +1,41 @@
 # Ex.No: 11 Develop a application to add animations to ImageView,Move,blink,fade,clockwise,zoom,slide operations are perform in android studio.
 
+## DATE : 25/10/2023
 
 ## AIM:
-
 To develop a application to add animation to imageview,move,blink,fade,clockwise,zoom,slide operation using Android Studio.
 
 ## EQUIPMENTS REQUIRED:
-
 Android Studio(Latest Version)
 
 ## ALGORITHM:
-Step 1: Open Android Studio and then click on File -> New -> New project.
-Step 2: Then type the Application name as HelloWorld and click Next. 
-Step 3: Then select the Minimum SDK as shown below and click Next.
-Step 4: Then select the Empty Activity and click Next. Finally click Finish.
-Step 5: Design layout in activity_main.xml.
-Step 6: Display message give in MainActivity file.
-Step 7: Save and run the application.
+
+### Step 1:
+Open Android Studio and then click on File -> New -> New project.
+
+### Step 2: 
+Then type the Application name as HelloWorld and click Next. 
+
+### Step 3:
+Then select the Minimum SDK as shown below and click Next.
+
+### Step 4:
+Then select the Empty Activity and click Next. Finally click Finish.
+
+### Step 5:
+Design layout in activity_main.xml.
+
+### Step 6: 
+Display message give in MainActivity file.
+
+### Step 7:
+Save and run the application.
 
 ## PROGRAM:
 ```
-/*
 Program to display animation operation”.
 Developed by:V R Anu Ayshwarya
 Registeration Number :212221040016
-*/
 ```
 ## activity_main.xml
 ```
@@ -222,7 +233,7 @@ public class MainActivity extends AppCompatActivity {
 }
 
 ```
-## OUTPUT
+## OUTPUT:
 
 ![image](https://github.com/Anuayshh/Expt-11/assets/127651217/939dd981-44fe-4650-a027-a87499a4f193)
 ![image](https://github.com/Anuayshh/Expt-11/assets/127651217/1d9a75a3-1d6e-47c5-ad14-f3cb42455cee)
@@ -230,6 +241,6 @@ public class MainActivity extends AppCompatActivity {
 ![image](https://github.com/Anuayshh/Expt-11/assets/127651217/a5787408-9dd4-43c7-81e7-27e193ffd447)
 
 
-## RESULT
+## RESULT:
 Thus, to develop an application to add animation to imageview, move, blink, fade, clockwise, zoom, slide 
 operation using Android Studio has been executed successfully
